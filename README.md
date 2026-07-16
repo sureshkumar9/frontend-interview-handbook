@@ -1,32 +1,12 @@
+# 🚀 Frontend Interview Handbook
+
 <div align="center">
 
-# 🚀 React Interview Handbook
+### The Ultimate Frontend Interview Preparation Guide
 
-### The Ultimate React Interview Preparation Guide
+Master Frontend Development with carefully curated interview questions, practical explanations, coding challenges, and real-world examples.
 
-<p>
-  <strong>500+ React Interview Questions & Answers</strong><br/>
-  Covering React, Hooks, Next.js, TypeScript, Redux, Performance, System Design, and Coding Challenges.
-</p>
-
-<p>
-  <a href="https://github.com/yourusername/react-interview-handbook/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/react-interview-handbook?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/yourusername/react-interview-handbook/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/react-interview-handbook?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/yourusername/react-interview-handbook/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/react-interview-handbook?style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/yourusername/react-interview-handbook/pulls">
-    <img src="https://img.shields.io/github/issues-pr/yourusername/react-interview-handbook?style=for-the-badge" />
-  </a>
-
-</p>
+**React • Next.js • JavaScript • TypeScript • HTML • CSS • Redux Toolkit • APIs • JWT • Testing • Vite • Webpack**
 
 ⭐ Star this repository if it helps you.
 
@@ -36,38 +16,172 @@
 
 # 📖 About
 
-React Interview Handbook is a free and open-source collection of **high-quality React interview questions and answers** for beginners and experienced developers.
+Frontend Interview Handbook is a free and open-source repository created to help developers prepare for frontend interviews with confidence.
 
-Unlike typical interview repositories, every question includes:
+Whether you're a beginner starting your frontend journey or an experienced developer preparing for product-based companies, this repository provides interview-focused learning with practical explanations, real-world examples, coding challenges, and best practices.
 
-- ✅ Simple explanation
-- ✅ Detailed answer
-- ✅ Real-world examples
-- ✅ Code snippets
-- ✅ Best practices
-- ✅ Interview tips
-- ✅ Common mistakes
-- ✅ Related questions
+Unlike traditional interview repositories, every topic is organized to help you understand the concept instead of simply memorizing answers.
 
 ---
 
-# 📚 Topics
+# 🎯 What You'll Learn
 
-## React Fundamentals
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- React Hooks
+- Redux
+- Redux Toolkit
+- REST APIs
+- Axios
+- JWT Authentication
+- React Testing Library
+- Jest
+- Git
+- Chrome DevTools
+- NPM
+- Vite
+- Babel
+- Webpack
+- Postman
+- Coding Challenges
 
-- What is React?
+---
+
+# 📚 Repository Structure
+
+```
+Frontend Fundamentals
+│
+├── HTML
+├── CSS
+├── JavaScript
+├── TypeScript
+
+React
+│
+├── React Basics
+├── Components
+├── JSX
+├── Props
+├── State
+├── Lifecycle
+├── Hooks
+├── Performance
+├── Context API
+
+Next.js
+│
+├── App Router
+├── Server Components
+├── Routing
+├── API Routes
+├── Metadata
+├── Deployment
+
+State Management
+│
+├── Redux
+├── Redux Toolkit
+
+Networking
+│
+├── REST API
+├── Fetch API
+├── Axios
+├── JWT Authentication
+
+Testing
+│
+├── Jest
+├── React Testing Library
+
+Build Tools
+│
+├── NPM
+├── Vite
+├── Babel
+├── Webpack
+
+Developer Tools
+│
+├── Git
+├── Chrome DevTools
+├── Postman
+
+Coding Challenges
+│
+├── Easy
+├── Medium
+├── Hard
+```
+
+---
+
+# 📚 Topics Covered
+
+## HTML
+
+- Semantic HTML
+- Forms
+- Accessibility
+- SEO
+- HTML5 APIs
+
+---
+
+## CSS
+
+- Flexbox
+- Grid
+- Positioning
+- Animations
+- Responsive Design
+- CSS Variables
+
+---
+
+## JavaScript
+
+- Variables
+- Scope
+- Closures
+- Hoisting
+- Event Loop
+- Promise
+- Async Await
+- DOM
+- ES6+
+
+---
+
+## TypeScript
+
+- Types
+- Interfaces
+- Generics
+- Utility Types
+- Advanced Types
+
+---
+
+## React.js
+
 - JSX
 - Components
 - Props
 - State
+- Lifecycle
 - Events
 - Conditional Rendering
-- Lists & Keys
-- Fragments
-- Portals
-- Virtual DOM
-- Reconciliation
-- React Fiber
+- Forms
+- Context API
 
 ---
 
@@ -77,74 +191,45 @@ Unlike typical interview repositories, every question includes:
 - useEffect
 - useMemo
 - useCallback
-- useReducer
 - useRef
+- useReducer
 - useContext
-- useLayoutEffect
-- useTransition
-- useDeferredValue
-- useId
 - Custom Hooks
-
----
-
-## React Advanced
-
-- Performance Optimization
-- React.memo
-- Suspense
-- Lazy Loading
-- Error Boundaries
-- Context API
-- Code Splitting
-- Concurrent Rendering
-- React Compiler
-- Server Components
 
 ---
 
 ## Next.js
 
 - App Router
+- Routing
+- Layout
+- Metadata
 - Server Components
 - Client Components
-- Server Actions
-- SSR
-- SSG
-- ISR
-- Middleware
-- Routing
-- Metadata API
+- API Routes
+- Deployment
 
 ---
 
-## TypeScript
+## Redux
 
-- React + TypeScript
-- Generic Components
-- Utility Types
-- Advanced Props
-- Type Safety
-
----
-
-## State Management
-
+- Redux
 - Redux Toolkit
-- Zustand
-- Context API
-- MobX
-- Recoil
+- Store
+- Reducers
+- Middleware
+- Async Thunk
 
 ---
 
-## Performance
+## APIs
 
-- Memoization
-- Virtualization
-- Lazy Loading
-- Bundle Optimization
-- Rendering Optimization
+- REST API
+- Fetch
+- Axios
+- JWT
+- Authentication
+- Authorization
 
 ---
 
@@ -152,129 +237,79 @@ Unlike typical interview repositories, every question includes:
 
 - Jest
 - React Testing Library
-- Cypress
-- Playwright
 
 ---
 
-## System Design
+## Build Tools
 
-- Frontend Architecture
-- Design Patterns
-- Scalability
-- Performance
-- Caching
-- Authentication
+- NPM
+- Vite
+- Babel
+- Webpack
 
 ---
 
-## Coding Exercises
+## Developer Tools
 
-- React Machine Coding
-- Hooks Challenges
-- UI Components
+- Git
+- Chrome DevTools
+- Postman
+
+---
+
+## Coding Challenges
+
+- React Components
+- Custom Hooks
+- Machine Coding
 - JavaScript Problems
+- DOM Problems
 
 ---
 
-# 🚀 Features
+# 🎯 Who is this repository for?
 
-- 500+ Interview Questions
-- Beginner → Advanced
-- Searchable Content
-- Copy Code Button
-- Mobile Friendly
-- Dark Mode
-- Interactive Examples
-- Regular Updates
-- Open Source
-
----
-
-# 🗂 Repository Structure
-
-```
-content/
-│
-├── react/
-├── hooks/
-├── javascript/
-├── typescript/
-├── nextjs/
-├── redux/
-├── performance/
-├── testing/
-├── system-design/
-└── coding-exercises/
-```
-
----
-
-# 📈 Roadmap
-
-- [x] React Fundamentals
-- [x] Hooks
-- [x] Advanced React
-- [ ] React 19
-- [ ] Next.js 15
-- [ ] TypeScript
-- [ ] Redux Toolkit
-- [ ] Zustand
-- [ ] Machine Coding
-- [ ] Frontend System Design
-- [ ] Mock Interviews
-- [ ] Interactive Playground
+- Frontend Developers
+- React Developers
+- Next.js Developers
+- Freshers
+- Experienced Developers
+- Students
+- Job Seekers
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are welcome!
 
-1. Fork the repository
-2. Create a feature branch
+You can contribute by:
 
-```bash
-git checkout -b feature/amazing-question
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add React Suspense interview question"
-```
-
-4. Push
-
-```bash
-git push origin feature/amazing-question
-```
-
-5. Open a Pull Request
+- Adding interview questions
+- Improving explanations
+- Fixing mistakes
+- Updating outdated content
+- Adding coding challenges
+- Sharing interview experiences
 
 ---
 
 # ⭐ Support
 
-If you found this repository useful,
+If this repository helped you,
 
-- ⭐ Star this repository
-- 🍴 Fork it
-- 🐞 Report issues
-- 💡 Suggest improvements
+⭐ Star the repository
+
+🍴 Fork it
+
+🐞 Open issues
+
+💡 Suggest improvements
+
+Every contribution helps the community.
 
 ---
 
 # 📄 License
 
-Distributed under the MIT License.
-
----
-
-<div align="center">
-
-### Happy Learning ❤️
-
-Made with React & ☕
-
-</div>
+Licensed under the MIT License.
